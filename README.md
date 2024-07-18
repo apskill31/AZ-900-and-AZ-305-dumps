@@ -8,6 +8,7 @@ I consistently scored around 80% on their mock exams, which greatly boosted my c
 You can find Skillcertpro’s exam dumps for the AZ-900 and AZ-305 here
 
 AZ-900: https://skillcertpro.com/product/microsoft-azure-fundamentals-az-900-exam-questions/
+
 AZ-305: https://skillcertpro.com/product/microsoft-azure-administrator-az-104-practice-exam-test/
 
 The similarity between the real exam questions and Skillcertpro’s materials was striking, with approximately 70–80% overlap. For me, at least 80% of the questions came from these exams word for word. The same was reported by colleagues who took the same exams.
